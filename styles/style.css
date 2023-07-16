@@ -275,7 +275,7 @@ main{
     }
     .teams-img-container {
         grid-template-columns: 1fr;
-        margin-left: -40px;
+        margin-left: -30px;
         
     }
     .teams-content, .facts-card-container{
@@ -284,7 +284,7 @@ main{
         
     }
     .card{
-        width: 20rem;
+        width: 80%;
     }
     .facts-card-container{
         gap: 20px;
